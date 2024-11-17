@@ -30,4 +30,4 @@ Usage
 - imbalanced-learn
 
 # Clone the repository:
-```git clone https://github.com/Aryan-0001/asteroid-classification.git```
+```git clone https://github.com/Aryan-0001/HazardousAsteroids.git```
